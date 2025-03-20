@@ -16,7 +16,7 @@ Unsere Haupttechnologien:
 
 ## 📬 Kontakt & Mitwirken
 📧 E-Mail: [leon.demann@sulzer.de](mailto:kontakt@deinfirmenname.com)  
-🌍 Webseite: [Sulzer](https://www.sulzer.de/)](https://www.deinfirmenname.com)  
+🌍 Webseite: [SulzerDE](https://www.sulzer.de/)  
 
 ## ⭐ Starte unser Repository!
 Wenn dir meine Arbeit gefällt, freue ich mich über einen ⭐ Star auf meinem Repository! 😊
