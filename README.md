@@ -1,6 +1,6 @@
 # Willkommen bei [aktivkohlefilterDEV] 🚀
 
-Herzlich willkommen auf unserem offiziellen GitHub-Account! Hier findest du unsere Open-Source-Projekte, Entwickler-Tools und weitere spannende Inhalte. Wir freuen uns über dein Interesse und deine Beiträge! 
+Herzlich willkommen auf meinem GitHub-Account! Hier findest du teilweise Open-Source-Projekte, Entwickler-Tools und weitere spannende Inhalte. Ich freue mich über deine Interesse und deine Beiträge! 
 
 ## 🔥 Was du hier findest
 - **Open-Source-Projekte**: Meine öffentlich zugänglichen Repositories mit nützlichen Tools und Bibliotheken.
